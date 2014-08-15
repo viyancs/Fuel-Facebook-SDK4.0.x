@@ -21,7 +21,7 @@ Instalation
 
 Usage Tab Apps with authentication
 -----
-Tab apps page usage when you want to build custom application under your tab of page, and with this code you can authenticated to get Session of user is logged by facebook, and then process that session by your self for more complex method and action.
+Tab apps page usage when you want to build custom application under your tab of page, and with this code you can authenticated to get Session of user is logged by facebook, and then process that session by your self.
 <pre>
         // start session
         if (session_status() == PHP_SESSION_NONE) session_start();
